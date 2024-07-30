@@ -7,10 +7,6 @@
       "config": { "includeFiles": ["dist/**"] }
     },
     {
-      "src": "src/**",
-      "use": "@vercel/static"
-    },
-    {
       "src": "prisma/**",
       "use": "@vercel/static"
     }
